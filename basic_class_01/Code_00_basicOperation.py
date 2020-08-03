@@ -74,7 +74,7 @@ def demoOperation():
 # 5、字符串（可以是单引号，双引号）
 
     # 字符串拼接 字符串只能拼接字符串类型
-    part_one = "民生银行的后浪们"
+    part_one = "后浪们"
     part_two = "加油"
     part = part_one + part_two
     func(21, part)
